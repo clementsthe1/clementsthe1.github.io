@@ -1,3 +1,5 @@
+<html>
+<body>
 <?php
 $[star formation each year]= 5
 $[number of those stars with planets] = 3
@@ -10,7 +12,11 @@ $drakeoperation = "*";
 
 $answer = eval('return'.$[star formation each year.$drakeoperation.$[number of those stars with planets].${fraction of those that could potentially suport life].$fraction of those that do support life].$[fraction of those that go on to develop intelligent life ';');
 echo ($answer);
+
 ?>
+</body>
+</html
+
 
 
 
