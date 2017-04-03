@@ -10,11 +10,10 @@ $drakevar5 = "0.7"
 $drakevar6 = "10,000"
 $drakeoperation = "*";
 
-$answer = eval('return'.$drakevar1.$drakeoperation.$drakevar2.$drakeoperation.$drakevar3.$drakeoperation.$drakevar4.$drakeoperation.$drakevar5.$drakeoperation$drakeevar6.';');
-echo ("$answer")
-?>
-</body>
-</html
+echo (5 % 3)."\n";           // prints 2
+echo (5 % -3)."\n";          // prints 2
+echo (-5 % 3)."\n";          // prints -2
+echo (-5 % -3)."\n";         // prints -2
 
 
 
