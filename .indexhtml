@@ -1,13 +1,13 @@
 <html>
 <body>
 <?php
-$drakevar1= 5
-$drakevar2 = 3
-$drakevar3 = 0.4
-$drakevar4= 0.5
-$drakevar5 = 0.5
-$drakevar5 = 0.7
-$drakevar6= 10,000
+$drakevar1 = "5"
+$drakevar2 = "3"
+$drakevar3 = "0.4"
+$drakevar4 = "0.5"
+$drakevar5 = "0.5"
+$drakevar5 = "0.7"
+$drakevar6 = "10,000"
 $drakeoperation = "*";
 
 $answer = eval('return'.$drakevar1.$drakeoperation.$drakevar2.$drakeoperation.$drakevar3.$drakeoperation.$drakevar4.$drakeoperation.$drakevar5.$drakeoperation$drakeevar6.';');
